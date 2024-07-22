@@ -1,0 +1,37 @@
+Changelog version 3.1
+- Support PHP 7
+
+Changelog version 3.0
+- Fix search for manual post
+- Fix downloader
+- Update Admin Panel
+- Add External cover for manual post
+- Add Lyric on manual post
+- Add Stream Permalink
+- Add youtube trending music
+- Add more themes
+
+Changelog version 2.5
+- Fix some bugs
+- Add random rating on search
+- Add external file on manual post
+- Add limit auto submit keywords
+- Add safelink
+- Add more themes
+
+Changelog version 2.0
+- Add export keywords to TXT
+- Add manual post MP3
+- Add upload MP3 with TAG Editor
+- Optimization sitemap index
+- Add more tag
+- Add more themes
+- Fix SSL on DMCA and Sitemap
+
+Changelog version 1.2
+- Fix ad slot sidebar & popup
+- Add reset keyword
+- Add feature cache
+
+Changelog version 1.0
+- Release
